@@ -18,6 +18,6 @@ _None_
 `Hello World!`
 
 ## Examples
-- [clojure](/clojure)
-- [java](/java)
-- [scala](/scala)
+- [clojure](clojure/)
+- [java](java/)
+- [scala](scala/)
