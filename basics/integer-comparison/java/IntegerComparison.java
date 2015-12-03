@@ -4,9 +4,11 @@ public class IntegerComparison {
 		final int i2 = Integer.parseInt(args[1]);
 		if (i1 < i2) {
 			System.out.println(i1 + " is less than " + i2 + ".");
-		} else if (i1 == i2) {
+		}
+		if (i1 == i2) {
 			System.out.println(i1 + " is equal to " + i2 + ".");
-		} else if (i1 > i2) {
+		}
+		if (i1 > i2) {
 			System.out.println(i1 + " is greater than " + i2 + ".");
 		}
 	}
