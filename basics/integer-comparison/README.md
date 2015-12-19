@@ -25,4 +25,5 @@ Two integers.
 - [Clojure](clojure/)
 - [Java](java/)
 - [Python](python/)
+- [Rust](rust/)
 - [Scala](scala/)
