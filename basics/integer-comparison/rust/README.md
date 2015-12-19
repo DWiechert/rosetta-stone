@@ -5,6 +5,6 @@
 To run:
 ```
 rustc IntegerComparison.rs
-./HelloWorld <int 1> <int 2> (Unix)
-HelloWorld.exe <int 1> <int 2> (Windows)
+./IntegerComparison <int 1> <int 2> (Unix)
+IntegerComparison.exe <int 1> <int 2> (Windows)
 ```
