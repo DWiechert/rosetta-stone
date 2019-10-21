@@ -4,5 +4,5 @@
 
 To run:
 ```
-scala command-line-arguments.rb <arg 1> <arg 2> ... <arg n>
+ruby command-line-arguments.rb <arg 1> <arg 2> ... <arg n>
 ```
