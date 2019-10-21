@@ -1,4 +1,4 @@
-# integer-comparison-java
+# integer-comparison-ruby
 
 *[Compare two integers](http://rosettacode.org/wiki/Integer_comparison) for equality.*
 
