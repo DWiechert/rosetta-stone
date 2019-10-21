@@ -1,4 +1,4 @@
-# hello-world-scala
+# hello-world-ruby
 
 *The classic [Hello World!](http://rosettacode.org/wiki/Hello_world/Text) problem.*
 
