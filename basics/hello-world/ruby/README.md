@@ -4,5 +4,5 @@
 
 To run:
 ```
-ruby HelloWorld.scala
+ruby HelloWorld.rb
 ```
